@@ -1,0 +1,101 @@
+﻿<Window x:Class="MyClassWindowProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyClassWindowProject"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        Height="450"
+        Width="800">
+    <Grid>
+        <Button x:Name="BtnCreateCar"
+                Content="Create Car"
+                HorizontalAlignment="Left"
+                Margin="53,263,0,0"
+                VerticalAlignment="Top"
+                Width="95"
+                Click="BtnCreateCar_Click"/>
+        <Button x:Name="BtnClearContents"
+                Content="Clear Contents"
+                HorizontalAlignment="Left"
+                Margin="183,263,0,0"
+                VerticalAlignment="Top"
+                Width="95"
+                Click="BtnClearContents_Click"/>
+
+        <Button x:Name="BtnGetLastCar"
+                Content="Last Car"
+                HorizontalAlignment="Left"
+                Margin="313,263,0,0"
+                VerticalAlignment="Top"
+                Width="95"
+                Click="BtnGetLastCar_Click"/>
+
+        <Label x:Name="lblColour"
+               Content="Colour"
+               HorizontalAlignment="Left"
+               Margin="37,33,0,0"
+               VerticalAlignment="Top"
+               Width="152"/>
+        <TextBox x:Name="txtColour"
+                 HorizontalAlignment="Left"
+                 Height="23"
+                 Margin="173,36,0,0"
+                 TextWrapping="Wrap"
+                 VerticalAlignment="Top"
+                 Width="120"/>
+
+        <Label x:Name="lblMake"
+               Content="Make"
+               HorizontalAlignment="Left"
+               Margin="37,77,0,0"
+               VerticalAlignment="Top"/>
+        <TextBox x:Name="txtMake"
+                 HorizontalAlignment="Left"
+                 Height="23"
+                 Margin="173,77,0,0"
+                 TextWrapping="Wrap"
+                 VerticalAlignment="Top"
+                 Width="120"/>
+
+        <Label x:Name="lbltype"
+               Content="Type"
+               HorizontalAlignment="Left"
+               Margin="37,121,0,0"
+               VerticalAlignment="Top"/>
+        <TextBox x:Name="txtType"
+                 HorizontalAlignment="Left"
+                 Height="23"
+                 Margin="173,121,0,0"
+                 TextWrapping="Wrap"
+                 VerticalAlignment="Top"
+                 Width="120"/>
+
+        <Label x:Name="lblcountry"
+               Content="Country"
+               HorizontalAlignment="Left"
+               Margin="37,165,0,0"
+               VerticalAlignment="Top"/>
+        <TextBox x:Name="txtCountry"
+                 HorizontalAlignment="Left"
+                 Height="23"
+                 Margin="173,165,0,0"
+                 TextWrapping="Wrap"
+                 VerticalAlignment="Top"
+                 Width="120"/>
+
+        <Label x:Name="lblcost"
+               Content="Cost"
+               HorizontalAlignment="Left"
+               Margin="37,209,0,0"
+               VerticalAlignment="Top"/>
+        <TextBox x:Name="txtCost"
+                 HorizontalAlignment="Left"
+                 Height="23"
+                 Margin="173,209,0,0"
+                 TextWrapping="Wrap"
+                 VerticalAlignment="Top"
+                 Width="120"/>
+    </Grid>
+</Window>
