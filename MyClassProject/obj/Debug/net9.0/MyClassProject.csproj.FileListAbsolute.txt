@@ -1,0 +1,14 @@
+C:\git\Uni\Object Oriented\Unit 3\personal\MyClassProject\bin\Debug\net9.0\MyClassProject.exe
+C:\git\Uni\Object Oriented\Unit 3\personal\MyClassProject\bin\Debug\net9.0\MyClassProject.deps.json
+C:\git\Uni\Object Oriented\Unit 3\personal\MyClassProject\bin\Debug\net9.0\MyClassProject.runtimeconfig.json
+C:\git\Uni\Object Oriented\Unit 3\personal\MyClassProject\bin\Debug\net9.0\MyClassProject.dll
+C:\git\Uni\Object Oriented\Unit 3\personal\MyClassProject\bin\Debug\net9.0\MyClassProject.pdb
+C:\git\Uni\Object Oriented\Unit 3\personal\MyClassProject\obj\Debug\net9.0\MyClassProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Uni\Object Oriented\Unit 3\personal\MyClassProject\obj\Debug\net9.0\MyClassProject.AssemblyInfoInputs.cache
+C:\git\Uni\Object Oriented\Unit 3\personal\MyClassProject\obj\Debug\net9.0\MyClassProject.AssemblyInfo.cs
+C:\git\Uni\Object Oriented\Unit 3\personal\MyClassProject\obj\Debug\net9.0\MyClassProject.csproj.CoreCompileInputs.cache
+C:\git\Uni\Object Oriented\Unit 3\personal\MyClassProject\obj\Debug\net9.0\MyClassProject.dll
+C:\git\Uni\Object Oriented\Unit 3\personal\MyClassProject\obj\Debug\net9.0\refint\MyClassProject.dll
+C:\git\Uni\Object Oriented\Unit 3\personal\MyClassProject\obj\Debug\net9.0\MyClassProject.pdb
+C:\git\Uni\Object Oriented\Unit 3\personal\MyClassProject\obj\Debug\net9.0\MyClassProject.genruntimeconfig.cache
+C:\git\Uni\Object Oriented\Unit 3\personal\MyClassProject\obj\Debug\net9.0\ref\MyClassProject.dll
