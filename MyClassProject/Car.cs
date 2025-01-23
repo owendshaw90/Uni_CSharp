@@ -18,27 +18,18 @@ namespace MyClassProject
       country = "UK";
     }
 
-    public Cars(string m)
+    public Cars(string m) : this() // counstructor
     {
-      carID++;
-      country = "UK";
       make = m;
     }
 
-    public Cars(string m, string t)
+    public Cars(string m, string t) : this(m)
     {
-      carID++;
-      country = "UK";
-      make = m;
       type = t;
     }
 
-    public Cars(string m, string t, string c)
+    public Cars(string c) : this(m, t)
     {
-      carID++;
-      country = "UK";
-      make = m;
-      type = t;
       colour = c;
     }
 

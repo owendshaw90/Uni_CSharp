@@ -4,7 +4,8 @@ namespace MyClassProject
   {
     private int range;
 
-    public ElectricCars(string make, string type, string colour, int r) : base(make, type, colour) // counstructor
+    // use counstructor with base to inherit from Cars
+    public ElectricCars(string make, string type, string colour, int r) : base(make, type, colour)
     {
       range = r;
     }
